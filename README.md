@@ -2,7 +2,7 @@
   Visitors<br><img src="https://profile-counter.glitch.me/web-ljc/count.svg" />
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=web-ljc&show_icons=true&theme=merko" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=程序员李同学&show_icons=true&theme=merko" />
 
 ### Hi 我是程序员ljc 👋
 
