@@ -9,5 +9,5 @@
 - 🔭 兄弟厂前端程序员，热爱生活，热爱编程
 - 🌱 个人博客：[web_ljc](https://juejin.cn/user/1429804971201160)
 - 🤔 Leetcode：[web—ljc](https://leetcode-cn.com/u/web-ljc)
-- 📫 微信：AAAA4L
+- 📫 邮箱：aaaa4l@qq.com
 
