@@ -8,7 +8,7 @@
 
 - 🔭 兄弟厂前端程序员，热爱生活，热爱编程
 - 🌱 掘金博客：[web_ljc](https://juejin.cn/user/1429804971201160)
-- 🍀 个人博客：[web—ljc](https://web-ljc.github.io/#/)
+- 🍀 个人博客：[web—ljc](https://web-ljc.github.io/index)
 - 🤔 Leetcode：[web—ljc](https://leetcode-cn.com/u/web-ljc)
 - 📫 邮箱：aaaa4l@qq.com
 
